@@ -47,8 +47,8 @@ Traditional house price models only learn **what** a house has (bedrooms, sqft).
 1. **Download Images:** Run `data_fetcher.py` to acquire satellite tiles.
 2. **Extract Visuals:** Run `cdc_feature_extraction_train_test.ipynb` to save image features.
 3. **Train Baseline:** (Optional) Run `cdc_tab_data_only_xgboost.ipynb`.
-4. **Final Model:** Run `Model_training.ipynb` for the hybrid fusion and predictions.
-
+4. **Model:** Run `Model_training.ipynb` for different model training.
+5. **Final Model** Run "23322026_final_prediction.ipynb" for getting final predictions. 
 ---
 **Submitted By:** Rishita Rathi  
 **Enrollment No:** 23322026  
